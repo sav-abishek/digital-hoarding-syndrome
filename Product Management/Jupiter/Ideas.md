@@ -1,0 +1,35 @@
+- Metaverse from BuildOnScenes
+- Community within the App
+	- Win together. Lose together
+		- How do we generate that effect through the product?
+- Splitwise
+	- Manual. You manually enter the bill. Choose friends
+- PayPal integration
+- Foreign Transactions
+	- Expensive in Traditional Banks
+	- Fear Factor
+		- Point out international transactions from their history and say - you lost 2000rs this month because you used Citibank's Intl services.
+		- Credit card chargeback in TB too
+- Demat Account Analyze
+	- User entered portfolio
+		- (Consideration) API of Zerodha
+		- Risk
+			- Zerodha
+				- Doesn't show risk
+					- Why?
+						- ICP has no use for risk (Possibility)
+						- Subjective
+			- Only for long-term investments
+- Core Idea is a lock-in to the ecosystem
+	- Is there anywhere they can insert facts and stats that Jupiter is better?
+		- What are the avenues where Jupiter outperforms a traditional bank
+			- What are the facts we can give
+				- Cherypick facts. Kool-aid
+				- [[vs Traditional Banks]]
+- Voice Commands (Fi)
+	- Privacy Concerns
+	- Can be integrated with Siri and Google Assistant 
+- Lending out money
+	- Breaking the Pot . Money in the FD is saved but the Jupiter app gets a loan
+	- Upto 5000 for Travel, Grocery, Healthcare and select categories.
+- Investment

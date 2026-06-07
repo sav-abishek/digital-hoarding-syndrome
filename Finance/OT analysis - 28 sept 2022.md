@@ -1,0 +1,94 @@
+analysis 
+- screener.in
+- keep nice journal — write name of stock, 3 reasons why you want to buy it. 
+- are the reasons still valid after each result?
+- decided to sell.. write 3 reasons why you want to sell? 
+    - the stock might bounce back, we still dont’ want to get back in. 
+- after a year, if we find new reasons
+    - do you have 3 new reasons? 
+        - something impressive to change your thought 
+        - 1. change in management. (what happened with bata, godrej, jubiliant etc.. )
+            - managements which have lead them for 5-15 years. 
+            - 
+        - 2. product portfolio
+            - every company gives products
+            - 1 years later, they have alloted more products. 
+                - capx — total production 
+            - material change in the company. 
+        - 3. profitability
+            - PnL, balance sheet, cash flow. 
+            - how can we improve prof
+                - increase sales 
+                - a company with monopoly should mange to 2X in 4 years. (worst case 5)
+                - 20-25% cagr
+            - Expenses: 
+                - operating profit margin = operating profit / sales 
+                - Interst: no debt — 
+                    - if some one have ingterest 
+                    - interrest — means debt. 
+                        - lesser debt lesser 
+                    - is there an interst in debt. 
+                    - is the interst down trending? 
+                - net = operationg 
+        - sector comes in cycle — example metal comes in a cycle — depending on economy. 
+            - commodities don’t follow standard cycles — everyone needs FMCG 
+            - June - Sep there is less construciotn — production is cut down — so profits are down — 
+        - desirable: high sales, high operating, low interst, high net profit. 
+        - 5 years 3X sales is reasonable (sales —> in profit & loss)
+            - pine gap — trust but verify. 
+        - monopoly means sales should increase. 
+        - when financials are not strong in bull market makes money . 
+- amara: 
+    - news affecting company. 
+    - polotically exposed company 
+        - amaraja is by TDP but Jagan is not going to let it run. 
+        - jayadev galla 
+        - understand comapny from every aspect. understand the atmosphere. 
+        - read basic news, look at annual reports. 
+        - buildnig new factory. 
+        - these companies can not be intersting for fii, dii etc. 
+            - news which comes late is also. useful. 
+        - if company is politically exposed or not is important . 
+        - 4K days of no returns. 
+        - reserves >>> borrowings — means company is in a good shape. 
+- when market starts to fall, everyone sells the worst stocks
+        - these phases are important. 
+    - if you have strong stocks, you will sell the last, by the time bear hits the market may recover. 
+        - even if I don’t check for a week or 10 days I am still fine. 
+    - jan 2018 correction happened, till 2020 march. 
+
+
+
+- delta: 
+    - consumer discritionary — only goes up when there is too much money. 
+    - consuemr staple — toothpaste etc. 
+    - between these two there is consumer durable 
+        - like microwave, fridge, washingmachine. 
+    - titan is discritionary — offerings are vast
+        - it manages sales all the time. 
+        - alternatives like they have 
+        - mangage to keep profit all the time. 
+        - EBITA — means average of (weighted) of all products — average sale. 
+- confidence and conviction — 
+    - know about he company on your own. 
+    - basic tenets of investing. 
+- never buy insurance 
+    - insurance is for companies not investors
+
+- regulatory keep track on it. 
+    - always be on time with news. 
+    - if you are serious investor, you spend time in reading and keep yourself updated. 
+- stock: buy on rumour sell on news. 
+- when you want to be investor don’t pick auto sector at all. 
+    - you have only 8/9 sticjs
+    - no commodities, no auto, (cyclic), no banks if you are a serious investor. 
+- promoter holding should be high
+    - promoter holding around 50% is a great sign
+        - a 30% + is mandatory
+    - if not, the public can manipulate the stock
+
+quant - qualitative —> need to understand both affects. 
+	- cash flow etc.. 
+	- qual == corporate governence, promoters are good? do they have any cases? are they exposed to politics? mis-managed? is he cycling money in some form?  	- are they doing presentations? — after close of every quarter, within 4 weeks you have to show the finances. 
+- by 31 you already know what is in hand or not. 
+    - why will someone delay the financials and reports

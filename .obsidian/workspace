@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "db075b2e4a127ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e86a39e48f8ef1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Flask/Flask Database.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac26e7544b9f2fff",
+    "type": "split",
+    "children": [
+      {
+        "id": "891e8295fcbec821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd732097096ae3d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6352227b3a8a50b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a48acf8058b7652",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "9411db47d7b9eb70",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5259202287f1ff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41526814e845fc71",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4aded0fd4bbe0519",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Flask/Flask Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "427a63543e8d7833",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Flask/Flask Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f8cf9fabf6ef16d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "761e37a1df4ba3cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Flask/Flask Database.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "57e86a39e48f8ef1",
+  "lastOpenFiles": [
+    "Programming/Flask/app files/Routes/auth.py blueprint.md",
+    "Programming/Flask/Flask API.md",
+    "Presentation.md",
+    "Industry Engineering/Operations Management/Operations Management.md",
+    "Industry Engineering/Operations Management/Intro.md",
+    "Industry Engineering/Quality Assurance & Reliability/Control Charts.md",
+    "Programming/Vue/Venv.md",
+    "Astronomy/JWST.md",
+    "Football.md",
+    "Programming/Flask/app files/Templates/profile.html.md"
+  ]
+}

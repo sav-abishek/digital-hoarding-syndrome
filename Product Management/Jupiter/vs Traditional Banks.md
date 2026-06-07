@@ -1,0 +1,4 @@
+- Onboarding process.
+- eKYC 3 days vs 10minutes
+- Congratulations on completing video kyc in just xyz minutes
+- Facts to drive user behavior

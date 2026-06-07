@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file: Abishek Vinodh S",
+      "color": {
+        "a": 1,
+        "rgb": 14896397
+      }
+    },
+    {
+      "query": "coffee",
+      "color": {
+        "a": 1,
+        "rgb": 7228454
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.34803418803419,
+  "lineSizeMultiplier": 3.2242735042735,
+  "collapse-forces": false,
+  "centerStrength": 0.706741573033708,
+  "repelStrength": 17.8202247191011,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.22920135941749462,
+  "close": true
+}

@@ -1,0 +1,13 @@
+- Brief Description of Hariharan's User Journey
+- Installed the Jupiter App
+- Entered mobile phone number
+- OTP verification with mobile phone number
+- Entered my PAN Card Number ( Jupiter assured that my credit score is unaffected through encryption)
+- (eKYC) Entered my Aadhar Number in Federal Bank's website
+- (eKYC) Verified Aadhar via OTP in Federal Bank's website
+- Entered Father and Mother's Name
+- Verified Details
+- Account was set up in 2minutes.
+- (Optional) Add a nominee
+- (Optional) Unlock advanced features - Video KYC 
+
