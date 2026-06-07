@@ -4,3 +4,8 @@
 .neural-composer/
 *.db
 *.index
+
+
+
+# Ignore Smart Environment folder
+.smart-env
